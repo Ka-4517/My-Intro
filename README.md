@@ -1,29 +1,32 @@
 ![Hello](https://user-images.githubusercontent.com/74948705/122553919-ea803380-d055-11eb-9922-6290df4db92b.gif)
 
 
-<h1 align="center">👋 Karan Gupta</h1>
+<h1 align="center">👋 Karan Gupta </h1>
 
  <p align="center">
     <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Ayush7614/blob/main/forkit.gif" /></a> 
 </p>
 
-<h2 align="center"> 👨‍💻 Who am I?</h2>
+<h2 align="center"> 👨‍💻 Who am I? </h2>
 <p align="center">
   <samp>
-I am a Final Year Student at SRMCEM LUCKNOW currently undertaking my Bachelors in INFORMATION TECHNOLOGY Engineering. I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in JAVA & ANDROID DEVELOOMENT. 
+My name is [Karan Gupta]. I have [2.6] years of experience in [Software Applications Testing]. 
+Currently, I am working at [ValueCoders Services LLP] as a [QA Executive/Associaate]. 
+My expertise lies in Automation Testing and Manual Testing, and my skills include API Testing and Database Testing. and. 
+I have worked on projects related to multiple domains/projects like: Ecom,HRMS,Fintech,OTT, & Also worked on AI-Based Projects.
+I am always eager to learn and improve my skills to deliver quality work. 
   </samp><br><br>
   <samp>
   <img src="https://komarev.com/ghpvc/?username=karan4517" alt="Ayush7614" /> 
 </p>
 
 
-- 🔭 I’m currently working on ... JAVA & Android Projects 
-- 🌱 I’m currently learning ... Data structure & Algo
-- 👯 I’m looking to collaborate on ... Github
-- 🤔 I’m looking for help with ... How to be more familier with github
-- 💬 Ask me about ... java , swing , awt , and my projects too.
-- 📫 How to reach -●Linkedin-https://www.linkedin.com/in/karan-gupta-5977ba193
--●Instagram-@karan_sahu_kraxo
+- 🔭 I’m currently working at ... ValueCoders Services LLP 
+- 🌱 My Expertise lie ... Automation Testing, Manual Testing, API Testing, Database Testing
+- 👯 I’m looking for New opportunity ... QA Automation Role
+- 🤔 I’m well experience ... with 3+ YOE in S/W Testing
+- 💬 Worked on Multiple Domain projects ... Ecom,HRMS,Fintech,OTT, & Also worked on AI-Based Projects.
+- 📫 How to reach -● Linkedin- https://www.linkedin.com/in/karan-gupta-5977ba193
 - 😄 Pronouns: ... He/His
 - ⚡ Fun fact: ... I'm also learning 😊
  -->
