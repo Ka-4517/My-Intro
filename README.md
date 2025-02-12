@@ -45,4 +45,4 @@ I am always eager to learn and improve my skills to deliver quality work.
 <img src="https://github-readme-stats.vercel.app/api?username=karan4517&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
   
-  ![](https://activity-graph.herokuapp.com/graph?username=karan4517&theme=github)
+  ![](https://activity-graph.herokuapp.com/graph?username=Ka-4517&theme=github)
