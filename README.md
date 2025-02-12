@@ -4,7 +4,7 @@
 <h1 align="center">👋 Karan Gupta </h1>
 
  <p align="center">
-    <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Ayush7614/blob/main/forkit.gif" /></a> 
+    <a href="https://github.com/Ka-4517"><img src="https://github.com/Ka-4517/Ka-4517/blob/main/forkit.gif" /></a> 
 </p>
 
 <h2 align="center"> 👨‍💻 Who am I? </h2>
