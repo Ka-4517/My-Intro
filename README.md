@@ -44,4 +44,3 @@ I am always eager to learn and improve my skills to deliver quality work.
 
 
 
-![Snake animation](https://github.com/Ka-4517/Ka-4517/blob/output/github-contribution-grid-snake.svg)
