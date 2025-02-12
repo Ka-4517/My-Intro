@@ -30,9 +30,9 @@ I am always eager to learn and improve my skills to deliver quality work.
 - 😄 Pronouns: ... He/His
 - ⚡ Fun fact: ... I'm also learning 😊
  -->
-<p align="left"> 
+<p align="left"> <b>Skills :</b>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
-     <img src="[https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png](https://img.icons8.com/?size=100&id=TLI9oiMzpREF&format=png&color=000000)"/> 
+     <img src="https://img.icons8.com/?size=100&id=TLI9oiMzpREF&format=png&color=000000"/> 
      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
