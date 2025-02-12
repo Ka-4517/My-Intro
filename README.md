@@ -17,7 +17,7 @@ I have worked on projects related to multiple domains/projects like: Ecom,HRMS,F
 I am always eager to learn and improve my skills to deliver quality work. 
   </samp><br><br>
   <samp>
-  <img src="https://komarev.com/ghpvc/?username=Ka-4517" alt="Ayush7614" /> 
+  <img src="https://komarev.com/ghpvc/?username=Ka-4517" /> 
 </p>
 
 
