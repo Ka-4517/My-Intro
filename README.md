@@ -26,7 +26,7 @@ I am always eager to learn and improve my skills to deliver quality work.
 - 👯 I’m looking for New opportunity ... QA Automation Role
 - 🤔 I’m well experienced ... S/W Applications Testing
 - 💬 Worked on Multiple Domain projects ... Ecom, HRMS, Fintech, OTT, & Also worked on AI-Based Projects.
-- 📫 How to reach -● <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" link="https://www.linkedin.com/in/karan-gupta-5977ba193"> https://www.linkedin.com/in/karan-gupta-5977ba193
+- 📫 How to reach -● <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" href="https://www.linkedin.com/in/karan-gupta-5977ba193"> https://www.linkedin.com/in/karan-gupta-5977ba193
 - 😄 Pronouns: ... He/His
 - ⚡ Fun fact: ... I'm also learning 😊
  -->
