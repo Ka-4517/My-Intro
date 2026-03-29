@@ -10,8 +10,8 @@
 <h2 align="center"> 👨‍💻 Who am I? </h2>
 <p align="center">
   <samp>
-My name is [Karan Gupta]. I have [2.6] years of experience in [Software Applications Testing]. 
-Currently, I am working at [ValueCoders Services LLP] as a [QA Executive/Associaate]. 
+My name is [Karan Gupta]. I have [4] years of experience in [Software Applications Testing]. 
+Currently, I am working at Adobe as QE I. 
 My expertise lies in Automation Testing and Manual Testing, and my skills include API Testing and Database Testing. and. 
 I have worked on projects related to multiple domains/projects like: Ecom,HRMS,Fintech,OTT, & Also worked on AI-Based Projects.
 I am always eager to learn and improve my skills to deliver quality work. 
@@ -21,7 +21,7 @@ I am always eager to learn and improve my skills to deliver quality work.
 </p>
 
 
-- 🔭 I’m currently working at ... ValueCoders Services LLP 
+- 🔭 I’m currently working at Adobe.
 - 🌱 My Expertise lie ... Automation Testing, Manual Testing, API Testing, Database Testing
 - 👯 I’m looking for New opportunity ... QA Automation Role
 - 🤔 I’m well experienced ... S/W Applications Testing
